@@ -16,8 +16,6 @@ You are tasked with building a data migration and transformation tool to streaml
 
 Solution Architecture
 
-Solution Architecture
-
     Step 1: Download Zip File: Utilize the requests library to download the zip file from the provided URL.
     Step 2: Extract JSON Files: Use the Zipfile library to extract the JSON files from the zip archive.
     Step 3: Transform Data: Leverage pandas and PySpark for parsing and transforming JSON data into a structured format.
